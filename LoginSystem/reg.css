@@ -1,0 +1,37 @@
+body{
+    height: 100vh;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    background-repeat: no-repeat;
+}
+.container{
+    padding: 0;
+    width: 100%;
+    margin-top: 70px;
+    color: white;
+    font-weight: 600;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+}
+.container1{
+    width: 500px;
+}
+.backToWelcome{
+    border: none;
+    background-color: rgb(54, 53, 53);
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+h1{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
